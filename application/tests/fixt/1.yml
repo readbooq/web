@@ -1,0 +1,8 @@
+publishers:
+  -
+    id: 1
+    eng_name: "Caught"
+    thai_name: "คืน"
+  -
+    id: 2
+    thai_name: "โตเกียวไม่มีขา"

@@ -1,5 +1,8 @@
 <?php
 
+Route::controller('admin.publishers');
+Route::controller('api.publishers');
+
 /*
 |--------------------------------------------------------------------------
 | Application Routes
