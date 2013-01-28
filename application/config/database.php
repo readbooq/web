@@ -70,9 +70,9 @@ return array(
 		'mysql' => array(
 			'driver'   => 'mysql',
 			'host'     => '127.0.0.1',
-			'database' => 'database',
+			'database' => 'booq',
 			'username' => 'root',
-			'password' => '',
+			'password' => 'mysql',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
